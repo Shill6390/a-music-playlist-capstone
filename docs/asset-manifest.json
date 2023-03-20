@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/a-music-playlist-capstone/static/css/main.02380d1a.css",
-    "main.js": "/a-music-playlist-capstone/static/js/main.729bc55f.js",
+    "main.js": "/a-music-playlist-capstone/static/js/main.8560ec4b.js",
     "static/js/787.5fa7c536.chunk.js": "/a-music-playlist-capstone/static/js/787.5fa7c536.chunk.js",
     "static/media/background_photo_desktop.jpg": "/a-music-playlist-capstone/static/media/background_photo_desktop.fe3a0beddb5034b9c8c5.jpg",
     "index.html": "/a-music-playlist-capstone/index.html",
     "main.02380d1a.css.map": "/a-music-playlist-capstone/static/css/main.02380d1a.css.map",
-    "main.729bc55f.js.map": "/a-music-playlist-capstone/static/js/main.729bc55f.js.map",
+    "main.8560ec4b.js.map": "/a-music-playlist-capstone/static/js/main.8560ec4b.js.map",
     "787.5fa7c536.chunk.js.map": "/a-music-playlist-capstone/static/js/787.5fa7c536.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.02380d1a.css",
-    "static/js/main.729bc55f.js"
+    "static/js/main.8560ec4b.js"
   ]
 }
